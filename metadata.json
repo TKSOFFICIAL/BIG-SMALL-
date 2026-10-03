@@ -1,0 +1,6 @@
+{
+  "name": "VKS OFFICIAL - WINGO 1M AI PREDICTOR",
+  "description": "VKS Official Wingo 1M AI Prediction Engine with 4-Day Server Lock & Gemini Pattern Analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
